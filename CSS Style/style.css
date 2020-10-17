@@ -1,0 +1,158 @@
+body {
+  text-align: center;
+  font-family: "Montserrat";
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+line-height: 1.5;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+/* titles */
+
+.section-title{
+  font-family: "Red Hat Display";
+  padding: 0 0 3%;
+}
+
+/* Containers */
+#navigation-bar .container-fluid{
+  padding: 2.5% 3%;
+}
+
+.container-fluid{
+    padding: 7% 10%;
+}
+
+/* Navigation  Bar */
+#navigation-bar {
+font-family: "Red Hat Display";
+
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+
+/* Header */
+#header{
+  margin: 5% 0 0;
+}
+
+.header-title{
+  margin: 5% 0 0;
+}
+
+
+
+/* 7-th Floor Crew */
+
+#seventh-floor{
+  background-color: #0f4c75;
+  color: #fff;
+
+}
+
+.carousel-image{
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 100%;
+
+}
+
+.carousel-text{
+  padding: 2.5% 10%;
+}
+
+.carousel-controls{
+margin-top: 20%;
+}
+
+
+/* Gaming Crew */
+#gaming-crew{
+  background-color: #3282b8;
+  color: #fff;
+}
+
+.carousel-image{
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 100%;
+
+}
+
+.carousel-text{
+  padding: 2.5% 10%;
+}
+
+.carousel-controls{
+margin-top: 20%;
+}
+
+
+/* ETA 12:00 */
+#eta{
+  background-color: #28abb9;
+  color: #fff;
+}
+
+.carousel-image{
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 100%;
+
+}
+
+.carousel-text{
+  padding: 2.5% 10%;
+}
+
+.carousel-controls{
+margin-top: 20%;
+}
+
+/* London Lads */
+#london-lads{
+  background-color: #41aea9;
+  color: #fff;
+}
+
+.carousel-image{
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 100%;
+
+}
+
+.carousel-text{
+  padding: 2.5% 10%;
+}
+
+.carousel-controls{
+margin-top: 20%;
+}
+
+/* footer */
+
+#footer{
+  background-color: #fff;
+   color: #8f8f8f;
+}
+
+.fab{
+margin: 20px 10px;
+}
